@@ -15,13 +15,3 @@ assignees: ''
 
 Date : 2022 / 8 / 1 下午
 Time : ~ 20 mins
-
-
----
-name: xxx
-about: Stand-up meeting minute
-title: 第 2 次 Stand-up Meeting 記錄
-labels: LOG
-assignees: ''
-
----
